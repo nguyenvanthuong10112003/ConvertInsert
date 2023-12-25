@@ -1,0 +1,5 @@
+C:\Users\nguye\Downloads\get\convert.exe
+C:\Users\nguye\Downloads\get\convert.dll
+C:\Users\nguye\Downloads\get\convert.deps.json
+C:\Users\nguye\Downloads\get\convert.runtimeconfig.json
+C:\Users\nguye\Downloads\get\convert.pdb

@@ -1,0 +1,5 @@
+C:\Users\nguye\Downloads\get\convert\convert\bin\Release\net6.0\app.publish\convert.exe
+C:\Users\nguye\Downloads\get\convert\convert\bin\Release\net6.0\app.publish\convert.dll
+C:\Users\nguye\Downloads\get\convert\convert\bin\Release\net6.0\app.publish\convert.deps.json
+C:\Users\nguye\Downloads\get\convert\convert\bin\Release\net6.0\app.publish\convert.runtimeconfig.json
+C:\Users\nguye\Downloads\get\convert\convert\bin\Release\net6.0\app.publish\convert.pdb
